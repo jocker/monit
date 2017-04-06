@@ -1,0 +1,10 @@
+*.cache
+*.settings
+.project
+.buildpath
+npm-debug.log
+node_modules
+.idea
+*.iml
+coverage
+log
